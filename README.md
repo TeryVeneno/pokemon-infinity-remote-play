@@ -35,7 +35,7 @@ You can right click on the black background to change the logo and backdrop. I h
 
 You are also going to want to change the direct shortcut name and logo. Click on the application and the gear on the right-hand side near the center of the screen. Then click on properties.
 
-![gear](https://raw.githubusercontent.com/TeryVeneno/pokemon-infinity-remote-play/main/images/big-gear.png)
+![gear](https://raw.githubusercontent.com/TeryVeneno/pokemon-infinity-remote-play/main/images/gear.png)
 
 This should open the shortcut properties menu. Change the name and then click on the blank square and set the image whatever you like (I have mine to set to the logo from earlier). Final result:
 
